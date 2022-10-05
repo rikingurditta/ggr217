@@ -5,4 +5,5 @@ Fall 2022 session, taught by [Adam Zendel](https://twitter.com/azendel).
 ## Table of Contents
 
 1. [Intro](2022-09-13 intro)
-
+1. [The Suburban City](2022-09-27 suburban city)
+1. [Gender and Suburbia](2022-10-04 gender and suburbia)
